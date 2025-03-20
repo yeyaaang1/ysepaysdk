@@ -1,4 +1,4 @@
-module github.com/code-serenade/ysepaysdk
+module github.com/yeyaaang1/ysepaysdk
 
 go 1.22.3
 
